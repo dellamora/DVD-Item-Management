@@ -3,7 +3,7 @@
 
 The code in this repository was created as part of a college assignment. It demonstrates the implementation of a Java class to manage DVD items and is intended for educational purposes.
 
-## *Attributes*:
+## **Attributes**:
 
 - `id`: An integer representing the ID of the DVD.
 - `nome`: A string representing the name of the DVD.
@@ -11,7 +11,7 @@ The code in this repository was created as part of a college assignment. It demo
 - `descricao`: A string representing the description of the DVD.
 - `anoLancamento`: An integer representing the release year of the DVD.
 
-## *Constructor*:
+## **Constructor**:
 
 The constructor initializes the DVD object with provided values for ID, name, price, description, and release year.
 Getter and Setter Methods:
@@ -22,7 +22,7 @@ Getter and Setter Methods:
 - `setAnoLancamento(int anoLancamento)`: Set the release year of the DVD.
 - `toString() Method`: Overrides the `toString()` method to provide a formatted string representation of the DVD item, including its ID, name, price, description, and release year.
 
-## *Usage*
+## **Usage**
 You can use the "DVD" class in your Java application to manage DVD items. Create instances of the "DVD" class and use its methods to get and set attributes and retrieve formatted information about DVD items.
 
 Example
